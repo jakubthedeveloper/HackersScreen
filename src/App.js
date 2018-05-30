@@ -10,11 +10,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="col col-xs-12 col-md-6">
+        <div className="col col-xs-12 col-sm-6">
             <HexEditor/>
         </div>
 
-        <div className="col col-xs-12 col-md-6">
+        <div className="col col-xs-12 col-sm-6">
             <Logs />
         </div>
       </div>
