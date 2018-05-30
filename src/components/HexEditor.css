@@ -1,0 +1,23 @@
+.hex-editor {
+    font-family: courier;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: black;
+    color: #00ff00;
+}
+
+.hex-editor .line {
+
+}
+
+.hex-editor .line .hex {
+
+}
+
+.hex-editor .line .hex span {
+    margin-right: 10px;
+}
+
+.hex-editor .line .alphanum {
+
+}
