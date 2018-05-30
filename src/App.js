@@ -9,7 +9,7 @@ import 'react-bootstrap';
 class App extends Component {
   render() {
     return (
-      <div className="App row">
+      <div className="App">
         <div className="col col-xs-6">
             <HexEditor/>
         </div>
