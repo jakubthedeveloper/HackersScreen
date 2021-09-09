@@ -1,8 +1,11 @@
-Aplikacja napisana w ReactJs. Do jej napisania zainspirował mnie jeden z odcinków "Twin Peaks" w którym na ekranie komputera było widocznych kilka konsolek z przewijającymi się danymi, kodem, itp. Moja wersja jest na razie dość prosta, ale zamierzam to rozbudować jak znajdę na to czas.
+# What is it?
+
+It is a ReactJs learning application that shows two console windows with random hacking-like stuff that we can see in holywood movies ;)
 
 [Demo](http://hack.irok84.kei.pl/)
 
 ![Screenshot](https://raw.githubusercontent.com/jakubthedeveloper/HackersScreen/master/public/screenshot.png)
 
-Aby odpalić aplikację, sklonuj repozytorium i uruchom: npm start.
-
+# Run
+clone repository
+npm start
